@@ -1,0 +1,12 @@
+name: takswak
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - requests
+  - configobj
+  - pytak
+  - untangle
+  - jupyter
+  - takprotobuf
+prefix: 
