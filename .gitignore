@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+send/*.cot
+sent/*.cot
+rec/*.cot
+received/*.cot
 
 # C extensions
 *.so

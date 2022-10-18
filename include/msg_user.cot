@@ -1,0 +1,13 @@
+<event version="2.0" uid="uid-takswak" type="a-f-G-U-C" how="h-e" time="2022-10-16T06:35:03.203Z" start="2022-10-16T06:35:03.203Z" stale="2022-10-16T06:41:18.203Z">
+  <point lat="24.800439" lon="120.992788" hae="26.2" ce="237.2" le="9999999.0"/>
+  <detail>
+    <takv os="30" version="4.7.0.4 (928e13af)[playstore].1663372165-CIV" device="ASUS ASUS_I001DC" platform="ATAK-CIV"/>
+    <contact endpoint="*:-1:stcp" callsign="takswak"/>
+    <uid Droid="takswak"/>
+    <precisionlocation altsrc="GPS" geopointsrc="GPS"/>
+    <__group role="Team Member" name="Cyan"/>
+    <status battery="63"/>
+    <track course="10.702246049148577" speed="0.0"/>
+  </detail>
+</event>
+
