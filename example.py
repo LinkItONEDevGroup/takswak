@@ -78,7 +78,8 @@ class MyRx(pytak.QueueWorker):
                         f.write(data)
                         #lines = f.readlines()
                     #msg="".join(lines).strip()
-            await asyncio.sleep(1)
+            else:
+                await asyncio.sleep(1)
 
 
 
