@@ -10,4 +10,5 @@ dependencies:
   - jupyter
   - takprotobuf
   - taky
+  - pyserial
 prefix: 
